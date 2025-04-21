@@ -1,4 +1,4 @@
-name: Update Adblock Module
+name: Update Adblock Plugin
 
 on:
   schedule:
