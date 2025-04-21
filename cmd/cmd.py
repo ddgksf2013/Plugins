@@ -37,7 +37,7 @@ def convert_to_loon(qx_content, name, desc, input_url):
         
 
         if stripped_line.startswith('hostname = '):
-            sections["MITM"].append(stripped_line.replace("hostname = ", "hostname = %APPEND% "))
+            sections["MITM"].append(stripped_line)
             continue
         
 
