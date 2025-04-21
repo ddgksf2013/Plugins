@@ -7,7 +7,7 @@ CONFIG = {
         {
             "input_url": "https://gist.githubusercontent.com/ddgksf2013/12ef6aad209155e7eb62c5b00c11b9dd/raw/StartUpAds.conf",
             "output_file": "Adblock/StartUpAds.plugin",
-            "name": "StartUp AdBlock",
+            "name": "墨鱼去开屏2.0",
             "desc": "Converted from QX StartUp AdBlock Rules"
         }
     ]
